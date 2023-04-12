@@ -1,0 +1,15 @@
+
+Celo
+token : 0xF856d4B76Fba58A870eCAd6230D338ff726e8e02
+certificate : 0x16Eb7560b9DB447990bC6171d6dCce6fEeA5aA67
+
+Mumbai
+token : 0x91D17B6Dc4BeCA5eb24eB8864EE59C89EC4bc543
+certificate : 0x89e79AdBAcFD319Ae587Dd14cD268d798243614e
+
+
+
+
+Credit cid : ipfs://QmNhbAcScMRMapVxX6uM8uxrYJq9G3AHhk2XkkCnjaNxUB/gscredit/token.json
+Project cid : ipfs://QmNhbAcScMRMapVxX6uM8uxrYJq9G3AHhk2XkkCnjaNxUB/gscredit/register.json
+NFT URI : ipfs://QmNhbAcScMRMapVxX6uM8uxrYJq9G3AHhk2XkkCnjaNxUB/gscredit/certification.json
