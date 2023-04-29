@@ -1,5 +1,28 @@
 {
   "dependencies": {
-    "ethers": "5.2"
-  }
+    "@ethersproject/providers": "^5.7.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "name": "carbonfile-v3",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srinivasb0/Carbonfile-v3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srinivasb0/Carbonfile-v3/issues"
+  },
+  "homepage": "https://github.com/Srinivasb0/Carbonfile-v3#readme"
 }
